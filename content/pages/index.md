@@ -270,7 +270,6 @@ sections:
         subtitle: Zoey M.
         text: ''
         image:
-          url: /images/hamid-tajik-uvnApE6gmnM-unsplash.jpg
           altText: Maria Walters
           styles:
             self:
