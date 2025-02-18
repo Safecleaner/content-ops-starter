@@ -18,7 +18,7 @@ sections:
       tougher tasks, eco-friendly services, and commercial cleaning for
       businesses and offices.
     actions:
-      - label: Get started
+      - label: Book
         altText: ''
         url: /
         showIcon: false
