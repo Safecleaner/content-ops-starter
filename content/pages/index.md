@@ -328,7 +328,7 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Linda S.
         text: ''
         image:
           url: /images/person-placeholder-light.png
