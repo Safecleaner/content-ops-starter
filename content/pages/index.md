@@ -22,7 +22,7 @@ sections:
       - label: Book
         altText: ''
         url: >-
-          /<!-- Zenbooker inline popup button begin --><link
+          <!-- Zenbooker inline popup button begin --><link
           href="https://cdn.zenbooker.com/widget/latest/zenbooker.css"
           rel="stylesheet"><script
           src="https://cdn.zenbooker.com/widget/latest/zenbooker.js"
