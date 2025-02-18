@@ -269,11 +269,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          "Absolutely fantastic service! My home has never looked this spotless.
-          The team was professional, efficient, and paid attention to every
-          detail. Highly recommend for anyone needing a thorough and reliable
-          cleaning!" ⭐⭐⭐⭐⭐
+      - title: ''
         tagline: Testimonial 1
         subtitle: Jessica M.
         text: ''
