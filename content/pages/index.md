@@ -194,7 +194,7 @@ sections:
     media:
       altText: Fun feature preview
       type: ImageBlock
-      url: /images/TSCleaners Woman Pic.webp
+      url: /images/Clean kitchen.jpg
     badge:
       label: This is a badge
       color: text-primary
