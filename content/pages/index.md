@@ -306,7 +306,7 @@ sections:
         subtitle: ' David R.'
         text: ''
         image:
-          url: /images/andre-tan-nX0mSJ999Og-unsplash.jpg
+          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
           altText: John Doe
           styles:
             self:
