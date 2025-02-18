@@ -11,10 +11,17 @@ sections:
         self:
           textAlign: left
     subtitle: Safety You Can Trust
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ###### 
+
+      Our cleaning business prioritizes home safety while providing a range of
+      exceptional cleaning services tailored to meet diverse needs. We offer
+      standard cleaning services for routine upkeep, deep cleaning for those
+      tougher tasks, eco-friendly services, and commercial cleaning for
+      businesses and offices.
+
+
+
     actions:
       - label: Get started
         altText: ''
