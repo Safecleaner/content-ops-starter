@@ -270,7 +270,11 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: ''
-        tagline: Testimonial 1
+        tagline: >-
+          "Absolutely fantastic service! My home has never looked this spotless.
+          The team was professional, efficient, and paid attention to every
+          detail. Highly recommend for anyone needing a thorough and reliable
+          cleaning!" ⭐⭐⭐⭐⭐
         subtitle: Jessica M.
         text: ''
         image:
