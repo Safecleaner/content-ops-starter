@@ -192,7 +192,6 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/kidtan.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
