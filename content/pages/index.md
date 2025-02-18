@@ -192,7 +192,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/TSCleaners Woman Pic.webp
+      url: /images/kidtan.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
