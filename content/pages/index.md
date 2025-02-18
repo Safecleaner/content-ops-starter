@@ -64,7 +64,7 @@ sections:
     subtitle: Variety That Meets Your Needs
     items:
       - type: FeaturedItem
-        title: Standard Cleaning
+        title: Residential Standard Cleaning
         subtitle: ''
         text: >+
           Elevate your environment with our Standard Cleaning. Ensures a
