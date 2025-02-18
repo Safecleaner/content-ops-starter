@@ -302,7 +302,7 @@ sections:
         tagline: >-
           "Super impressed with the quality of cleaning! They arrived on time,
           worked efficiently, and left my home looking and smelling fresh. Will
-          definitely be booking again!"⭐⭐⭐⭐⭐—
+          definitely be booking again!"⭐⭐⭐⭐⭐
         subtitle: ' David R.'
         text: ''
         image:
