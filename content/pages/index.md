@@ -21,18 +21,7 @@ sections:
     actions:
       - label: Book
         altText: ''
-        url: >-
-          <!-- Zenbooker inline popup button begin --><link
-          href="https://cdn.zenbooker.com/widget/latest/zenbooker.css"
-          rel="stylesheet"><script
-          src="https://cdn.zenbooker.com/widget/latest/zenbooker.js"
-          type="text/javascript"></script><div class="type-align-center"><a
-          class="zenbooker-inline-button" id="FFbX-trigger" style="color:
-          #ffffff !important; border-radius: 8px;  font-size: 20px;
-          background-color: #0a0b0b; cursor:pointer;" 
-          onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1739379459505x687528042168451700?embed=true');return
-          false;">Book Online</a></div><!-- Zenbooker inline popup button end
-          -->
+        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
         showIcon: false
         icon: arrowRight
         iconPosition: right
