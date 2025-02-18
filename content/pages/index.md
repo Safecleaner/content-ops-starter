@@ -170,7 +170,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Social Media Management
+      text: We Value Protecting Your Home
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
