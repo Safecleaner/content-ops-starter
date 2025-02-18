@@ -194,7 +194,7 @@ sections:
     media:
       altText: Fun feature preview
       type: ImageBlock
-      url: /images/Clean kitchen.jpg
+      url: /images/dining room pic.PNG
     badge:
       label: This is a badge
       color: text-primary
