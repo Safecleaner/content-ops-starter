@@ -327,11 +327,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: >-
-          "Best cleaning service I’ve ever used! They were friendly, safe, and
-          professional, and made sure everything was sparkling clean. If you
-          need a stress-free and top-notch cleaning, this is the company to
-          call!"⭐⭐⭐⭐⭐
+        tagline: "\"Best cleaning service I’ve ever used! They were friendly, safe, and professional, and made sure everything was sparkling clean. If you need a stress-free and top-notch cleaning, this is the company to call! #SafeCleanersRock \U0001F918!\"⭐⭐⭐⭐⭐"
         subtitle: Linda S.
         text: ''
         image:
