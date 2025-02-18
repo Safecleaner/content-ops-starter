@@ -123,7 +123,7 @@ sections:
           office, ensuring optimal productivity.
 
         image:
-          url: /images/icon3.svg
+          url: /images/commercial.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
