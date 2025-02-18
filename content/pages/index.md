@@ -297,7 +297,6 @@ sections:
         subtitle: ' Roderick L.'
         text: ''
         image:
-          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
           altText: John Doe
           styles:
             self:
