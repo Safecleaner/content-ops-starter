@@ -63,7 +63,7 @@ sections:
     subtitle: Variety that meets your
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
