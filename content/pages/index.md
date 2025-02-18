@@ -303,7 +303,7 @@ sections:
           "Super impressed with the quality of cleaning! They arrived on time,
           worked efficiently, and left my home looking and smelling fresh. Will
           definitely be booking again!"⭐⭐⭐⭐⭐—
-        subtitle: 'John Doe, Company'
+        subtitle: ' David R.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
