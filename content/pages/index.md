@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
     subtitle: Cleaning and Safety You Can Trust
     text: >
       At The Safe Cleaners, we prioritize home safety while providing a range of
