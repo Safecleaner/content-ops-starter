@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Variety That Meets Your Needs
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Residential Standard Cleaning
