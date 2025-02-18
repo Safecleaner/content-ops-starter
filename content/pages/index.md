@@ -176,8 +176,9 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Not only do we clean your home, we pride ourselves on being trustworthy. 
-      Sending trusted technicians to protect all that you've worked hard for.
+      Not only do we clean your residential/commercial projects, but we also
+      pride ourselves on being trustworthy.  Sending **trusted, vetted
+      technicians** to protect all that you've worked hard for.
     actions:
       - label: Book Now
         url: /
