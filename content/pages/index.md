@@ -342,7 +342,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav-multiple
+    variant: dots-nav
     colors: bg-neutral-fg-dark
     styles:
       self:
