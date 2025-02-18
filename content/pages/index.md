@@ -204,7 +204,7 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - subtitle: Award winning enterprises trust us
+  - subtitle: What Our Customers are Saying!
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
