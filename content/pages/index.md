@@ -140,7 +140,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Eco-Friendly Services Available Upon Request
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
