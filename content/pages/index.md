@@ -183,7 +183,7 @@ sections:
         textAlign: center
   - title:
       text: We Value Protecting Your Home
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
