@@ -63,7 +63,7 @@ sections:
     subtitle: Variety that meets your
     items:
       - type: FeaturedItem
-        title: ''
+        title: Standard Cleaning
         subtitle: ''
         text: >+
           Elevate your environment with our Standard Cleaning. Ensures a
