@@ -178,7 +178,7 @@ sections:
       Not only do we clean your home, we pride ourselves on being trustworthy. 
       Sending trusted technicians to protect all that you've worked hard for.
     actions:
-      - label: Get started
+      - label: Book Now
         url: /
         icon: arrowRight
         iconPosition: right
