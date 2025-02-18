@@ -304,10 +304,7 @@ sections:
           worked efficiently, and left my home looking and smelling fresh. Will
           definitely be booking again!"⭐⭐⭐⭐⭐—
         subtitle: ' David R.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
