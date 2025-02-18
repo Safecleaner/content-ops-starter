@@ -118,10 +118,10 @@ sections:
         type: FeaturedItem
       - title: Commerical
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Our Business Cleaning Solutions diligently uphold a tidy, professional
+          office, ensuring optimal productivity.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
