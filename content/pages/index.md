@@ -344,7 +344,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav-multiple
+    variant: next-prev-nav
     colors: bg-neutral-fg-dark
     styles:
       self:
