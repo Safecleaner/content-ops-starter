@@ -270,8 +270,10 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Absolutely fantastic service! My home has never looked this spotless.
+          The team was professional, efficient, and paid attention to every
+          detail. Highly recommend for anyone needing a thorough and reliable
+          cleaning!"— Jessica M.
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
