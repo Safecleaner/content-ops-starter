@@ -175,8 +175,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Not only do we clean your home, we pride ourselves on being trustworthy. 
+      Sending trusted technicians to protect all that you've worked hard for.
     actions:
       - label: Get started
         url: /
