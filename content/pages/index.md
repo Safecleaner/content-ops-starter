@@ -303,7 +303,7 @@ sections:
           "Super impressed with the quality of cleaning! They arrived on time,
           worked efficiently, and left my home looking and smelling fresh. Will
           definitely be booking again!"⭐⭐⭐⭐⭐
-        subtitle: ' John R.'
+        subtitle: ' Roderick L.'
         text: ''
         image:
           url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
