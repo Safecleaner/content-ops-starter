@@ -192,7 +192,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/dining room pic.PNG
+      url: /images/TSCleaners Woman Pic.webp
       altText: Fun feature preview
       type: ImageBlock
     badge:
