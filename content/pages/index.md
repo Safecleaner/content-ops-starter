@@ -275,7 +275,7 @@ sections:
           detail. Highly recommend for anyone needing a thorough and reliable
           cleaning!" ⭐⭐⭐⭐⭐
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Jessica M.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
