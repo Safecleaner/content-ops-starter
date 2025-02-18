@@ -278,7 +278,7 @@ sections:
         subtitle: Jessica M.
         text: ''
         image:
-          url: /images/brooke-cagle-oTweoxMKdkA-unsplash.jpg
+          url: /images/hamid-tajik-uvnApE6gmnM-unsplash.jpg
           altText: Maria Walters
           styles:
             self:
