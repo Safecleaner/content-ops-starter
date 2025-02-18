@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 700
-    subtitle: Cleaning & Safety You Can Trust
+    subtitle: Cleaning & Safety are Our Priority
     text: >
       At The Safe Cleaners, we prioritize home safety while providing a range of
       exceptional cleaning services tailored to meet diverse needs. We offer
