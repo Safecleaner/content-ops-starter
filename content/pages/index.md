@@ -150,7 +150,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Services
+      label: ''
       color: text-primary
       styles:
         self:
