@@ -93,10 +93,10 @@ sections:
               borderRadius: x-large
       - title: Deep Cleaning
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Rejuvenate your area with Intensive Cleaning. A sanitary home or
+          workspace.
+
         image:
           url: /images/Deep Cleaning.png
           altText: Featured icon two
