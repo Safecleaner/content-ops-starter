@@ -299,7 +299,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        tagline: Testimonial 2
+        tagline: >-
+          ⭐⭐⭐⭐⭐"Super impressed with the quality of cleaning! They arrived on
+          time, worked efficiently, and left my home looking and smelling fresh.
+          Will definitely be booking again!"— David R.
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
