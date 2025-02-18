@@ -196,7 +196,7 @@ sections:
       type: ImageBlock
       url: /images/kitchen photo.jpg
     badge:
-      label: This is a badge
+      label: TRUSTED TECHNICIANS
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
