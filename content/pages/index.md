@@ -12,9 +12,6 @@ sections:
           textAlign: left
     subtitle: Cleaning and Safety You Can Trust
     text: >
-      ######
-
-
       At The Safe Cleaners, we prioritize home safety while providing a range of
       exceptional cleaning services tailored to meet diverse needs. We offer
       standard cleaning services for routine upkeep, deep cleaning for those
