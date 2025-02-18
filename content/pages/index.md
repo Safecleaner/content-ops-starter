@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Variety that meets your
+    subtitle: Variety That Meets Your Needs
     items:
       - type: FeaturedItem
         title: Standard Cleaning
