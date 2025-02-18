@@ -139,31 +139,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     actions:
       - label: Get started
         altText: ''
