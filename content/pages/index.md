@@ -142,7 +142,7 @@ sections:
       - type: FeaturedItem
         title: Eco-Friendly Services Available Upon Request
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
