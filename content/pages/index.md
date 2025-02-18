@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Commerical
+      - title: Commerical Cleaning
         subtitle: ''
         text: >+
           Our Business Cleaning Solutions diligently uphold a tidy, professional
