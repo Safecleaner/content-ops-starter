@@ -224,7 +224,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: What Our Customers are Saying!
+  - subtitle: Our Trusted Partners!
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
