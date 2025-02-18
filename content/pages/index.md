@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Safety You Can Trust
+    subtitle: Cleaning and Safety You Can Trust
     text: >+
       ###### 
 
