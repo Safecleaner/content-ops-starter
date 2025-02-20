@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: CLEANING SERVICES FOR ALL YOUR NEEDS
-      color: text-neutral
+      color: text-dark
       type: TitleBlock
       styles:
         self:
