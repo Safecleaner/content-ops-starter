@@ -352,7 +352,7 @@ sections:
 seo:
   metaTitle: The Safe Cleaners ®️
   metaDescription: "The Safest Cleaning Company In Your Area! \U0001F9F9\U0001F9FD\U0001FAE7"
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/safehome.png
   type: Seo
 type: PageLayout
 ---
