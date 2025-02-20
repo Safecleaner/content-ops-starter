@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: '/https://widget.zenbooker.com/book/safehomecleaningco'
+        url: 'https://widget.zenbooker.com/book/thesafecleaners'
         showIcon: false
         icon: arrowRight
         iconPosition: right
