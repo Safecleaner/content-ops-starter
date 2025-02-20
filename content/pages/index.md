@@ -350,7 +350,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: The Safe Cleaners ®️
   metaDescription: 'The Safest Cleaning Company In Your Area! '
   socialImage: /images/main-hero.jpg
   type: Seo
