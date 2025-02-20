@@ -173,7 +173,7 @@ sections:
     actions:
       - label: Book Now
         url: 'https://widget.zenbooker.com/book/safehomecleaningco'
-        icon: ''
+        icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
