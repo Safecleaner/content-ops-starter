@@ -236,7 +236,7 @@ sections:
           "Super impressed with the quality of cleaning! They arrived on time,
           worked efficiently, and left my home looking and smelling fresh. Will
           definitely be booking again!"⭐⭐⭐⭐⭐
-        subtitle: ' Roderick L.'
+        subtitle: ' Lamar W.'
         text: ''
         image:
           altText: ''
