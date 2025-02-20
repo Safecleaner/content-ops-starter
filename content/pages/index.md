@@ -2,48 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: CLEANING SERVICES FOR ALL YOUR NEEDS
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: left
-          fontWeight: 700
-    subtitle: 'Safety First, Spotless Cleaning Always.'
-    text: >
-      At The Safe Cleaners, we prioritize safety, and security while providing a
-      range of exceptional cleaning services tailored to meet diverse needs. We
-      offer **Standard Cleaning Services** for routine upkeep, **Deep Cleaning
-      Services** for those tougher tasks, **Eco-friendly Services**, and
-      **Commercial Cleaning** for businesses and offices.
-    actions:
-      - label: Book
-        altText: ''
-        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-    media:
-      url: /images/TSCleaners Woman Pic.webp
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Core Cleaning Services
@@ -161,6 +119,48 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: CLEANING SERVICES FOR ALL YOUR NEEDS
+      color: text-dark
+      type: TitleBlock
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 700
+    subtitle: 'Safety First, Spotless Cleaning Always.'
+    text: >
+      At The Safe Cleaners, we prioritize safety, and security while providing a
+      range of exceptional cleaning services tailored to meet diverse needs. We
+      offer **Standard Cleaning Services** for routine upkeep, **Deep Cleaning
+      Services** for those tougher tasks, **Eco-friendly Services**, and
+      **Commercial Cleaning** for businesses and offices.
+    actions:
+      - label: Book
+        altText: ''
+        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+    media:
+      url: /images/TSCleaners Woman Pic.webp
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - title:
       text: We Value Protecting Your Home
       color: text-dark
