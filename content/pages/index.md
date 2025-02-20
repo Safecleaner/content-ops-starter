@@ -303,6 +303,7 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
