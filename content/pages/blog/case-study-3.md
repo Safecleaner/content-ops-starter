@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: case-study-3
-date: '2024-07-04'
+date: '2024-01-04'
 excerpt: ''
 featuredImage:
   url: /images/move out pic.PNG
