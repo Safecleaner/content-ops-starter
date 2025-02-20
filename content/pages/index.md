@@ -177,7 +177,7 @@ sections:
         iconPosition: left
         style: secondary
         type: Button
-        showIcon: true
+        showIcon: false
       - label: ''
         url: /
         showIcon: true
