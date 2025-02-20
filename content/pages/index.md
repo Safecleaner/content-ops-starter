@@ -298,7 +298,7 @@ sections:
         subtitle: ' Roderick L.'
         text: ''
         image:
-          altText: John Doe
+          altText: ''
           styles:
             self:
               borderRadius: full
