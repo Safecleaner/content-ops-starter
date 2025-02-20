@@ -1,7 +1,7 @@
 ---
 title: ''
 slug: case-study-1
-date: '0002-02-02'
+date: '0022-02-02'
 excerpt: ''
 featuredImage:
   url: /images/dining room pic.PNG
