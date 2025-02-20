@@ -304,6 +304,7 @@ sections:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/alexander-grey-4HjsTvonLPc-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
