@@ -32,6 +32,7 @@ bottomSections:
               margin:
                 - ml-3
           type: ImageBlock
+          url: /images/safehome_300x300.png
         colors: bg-light-fg-dark
         styles:
           self:
