@@ -227,6 +227,37 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - subtitle: Our Trusted Partners!
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: CarouselSection
     title: null
     subtitle: What our customers say about us
@@ -321,37 +352,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Our Trusted Partners!
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
 seo:
   metaTitle: The Safe Cleaners ®️
   metaDescription: "The Safest Cleaning Company In Your Area! \U0001F9F9\U0001F9FD\U0001FAE7"
