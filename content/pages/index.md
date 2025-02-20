@@ -174,9 +174,10 @@ sections:
       - label: Book Now
         url: 'https://widget.zenbooker.com/book/safehomecleaningco'
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
         type: Button
+        showIcon: false
       - label: ''
         url: /
         showIcon: true
@@ -203,7 +204,7 @@ sections:
       - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: false
-    showAuthor: true
+    showAuthor: false
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -216,37 +217,6 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
-  - subtitle: Our Trusted Partners!
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -263,18 +233,18 @@ sections:
     items:
       - title: ''
         tagline: >-
-          "Absolutely fantastic service! My home has never looked this spotless.
-          The team was professional, efficient, and paid attention to every
-          detail. Highly recommend for anyone needing a thorough and reliable
-          cleaning!" ⭐⭐⭐⭐⭐
-        subtitle: Zoey M.
+          "Super impressed with the quality of cleaning! They arrived on time,
+          worked efficiently, and left my home looking and smelling fresh. Will
+          definitely be booking again!"⭐⭐⭐⭐⭐
+        subtitle: ' Roderick L.'
         text: ''
         image:
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -291,17 +261,19 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: >-
-          "Super impressed with the quality of cleaning! They arrived on time,
-          worked efficiently, and left my home looking and smelling fresh. Will
-          definitely be booking again!"⭐⭐⭐⭐⭐
-        subtitle: ' Roderick L.'
+          "Absolutely fantastic service! My home has never looked this spotless.
+          The team was professional, efficient, and paid attention to every
+          detail. Highly recommend for anyone needing a thorough and reliable
+          cleaning!" ⭐⭐⭐⭐⭐
+        subtitle: Margaret C.
         text: ''
         image:
-          altText: John Doe
+          altText: ''
           styles:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/alexander-grey-4HjsTvonLPc-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -343,16 +315,47 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav-multiple
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
       subtitle:
         textAlign: center
+  - subtitle: Our Trusted Partners!
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: The Safe Cleaners ®️
+  metaDescription: "The Safest Cleaning Company In Your Area! \U0001F9F9\U0001F9FD\U0001FAE7"
+  socialImage: /images/safehome_300x300.png
   type: Seo
 type: PageLayout
 ---
