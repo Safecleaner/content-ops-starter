@@ -296,7 +296,7 @@ sections:
           The team was professional, efficient, and paid attention to every
           detail. Highly recommend for anyone needing a thorough and reliable
           cleaning!" ⭐⭐⭐⭐⭐
-        subtitle: Zoey M.
+        subtitle: Margaret C.
         text: ''
         image:
           altText: Maria Walters
