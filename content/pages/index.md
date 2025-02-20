@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Book
         altText: ''
-        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
+        url: 'https://widget.zenbooker.com/book/thesafecleaners'
         showIcon: true
         icon: arrowRight
         iconPosition: right
