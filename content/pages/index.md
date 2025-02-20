@@ -229,7 +229,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: What Our Customers Think About Us!
     items:
       - title: ''
         tagline: >-
