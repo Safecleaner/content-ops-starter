@@ -21,7 +21,7 @@ sections:
     actions:
       - label: Book
         altText: ''
-        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
+        url: 'https://widget.zenbooker.com/book/thesafecleaners'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -134,7 +134,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: '/https://widget.zenbooker.com/book/safehomecleaningco'
+        url: 'https://widget.zenbooker.com/book/thesafecleaners'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -172,7 +172,7 @@ sections:
       technicians** to protect all that you've worked hard for.
     actions:
       - label: Book Now
-        url: 'https://widget.zenbooker.com/book/safehomecleaningco'
+        url: 'https://widget.zenbooker.com/book/thesafecleaners'
         icon: arrowRight
         iconPosition: left
         style: secondary
