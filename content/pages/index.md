@@ -299,7 +299,7 @@ sections:
         subtitle: Margaret C.
         text: ''
         image:
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
