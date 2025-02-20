@@ -264,18 +264,18 @@ sections:
     items:
       - title: ''
         tagline: >-
-          "Absolutely fantastic service! My home has never looked this spotless.
-          The team was professional, efficient, and paid attention to every
-          detail. Highly recommend for anyone needing a thorough and reliable
-          cleaning!" ⭐⭐⭐⭐⭐
-        subtitle: Zoey M.
+          "Super impressed with the quality of cleaning! They arrived on time,
+          worked efficiently, and left my home looking and smelling fresh. Will
+          definitely be booking again!"⭐⭐⭐⭐⭐
+        subtitle: ' Roderick L.'
         text: ''
         image:
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
           type: ImageBlock
+          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -292,18 +292,18 @@ sections:
         type: FeaturedItem
       - title: ''
         tagline: >-
-          "Super impressed with the quality of cleaning! They arrived on time,
-          worked efficiently, and left my home looking and smelling fresh. Will
-          definitely be booking again!"⭐⭐⭐⭐⭐
-        subtitle: ' Roderick L.'
+          "Absolutely fantastic service! My home has never looked this spotless.
+          The team was professional, efficient, and paid attention to every
+          detail. Highly recommend for anyone needing a thorough and reliable
+          cleaning!" ⭐⭐⭐⭐⭐
+        subtitle: Zoey M.
         text: ''
         image:
-          altText: ''
+          altText: Maria Walters
           styles:
             self:
               borderRadius: full
           type: ImageBlock
-          url: /images/de-andre-bush-yluUEc7NhfM-unsplash.jpg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
