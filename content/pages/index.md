@@ -345,7 +345,7 @@ sections:
         type: FeaturedItem
     elementId: null
     variant: next-prev-nav-multiple
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
