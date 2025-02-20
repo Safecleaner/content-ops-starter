@@ -50,6 +50,6 @@
         }
     ],
     "copyrightText": "**Powered by The Safe Cleaners ®️**\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
