@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/safehome_300x300.png",
+        "url": "/images/safehome_transparent.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
