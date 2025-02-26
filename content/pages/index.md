@@ -17,7 +17,8 @@ sections:
       range of exceptional cleaning services tailored to meet diverse needs. We
       offer **Standard Cleaning Services** for routine upkeep, **Deep Cleaning
       Services** for those tougher tasks, **Eco-friendly Services**, and
-      **Commercial Cleaning** for businesses and offices.
+      **Commercial Cleaning** for businesses and offices.  Get your online quote
+      now!
     actions:
       - label: Book
         altText: ''
@@ -28,6 +29,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Instant Quote
+        altText: ''
+        url: 'https://tsc-client-app-7ad6f1c7cac3.herokuapp.com/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/TSCleaners Woman Pic.webp
       altText: Unblock your team boost your time to production preview
