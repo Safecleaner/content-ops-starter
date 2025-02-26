@@ -32,7 +32,7 @@ sections:
       - type: Button
         label: Instant Quote
         altText: ''
-        url: '/https://tsc-client-app-7ad6f1c7cac3.herokuapp.com/'
+        url: 'https://tsc-client-app-7ad6f1c7cac3.herokuapp.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
