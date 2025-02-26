@@ -142,9 +142,9 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Instant Quote!
         altText: ''
-        url: 'https://widget.zenbooker.com/book/thesafecleaners'
+        url: 'https://tsc-client-app-7ad6f1c7cac3.herokuapp.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
