@@ -142,7 +142,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Instant Quote!
         altText: ''
         url: 'https://widget.zenbooker.com/book/thesafecleaners'
         showIcon: false
