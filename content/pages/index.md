@@ -12,7 +12,7 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: 'Safety First, Spotless Cleaning Always.'
-    text: "At The Safe Cleaners, we prioritize safety, and security while providing a range of exceptional cleaning services tailored to meet diverse needs. We offer **Standard Cleaning Services** for routine upkeep, **Deep Cleaning Services** for those tougher tasks, **Eco-friendly Services**, and **Commercial Cleaning** for businesses and offices.  Get your online quote now!\n\n\U0001FAE7Servicing **LEHIGH ACRES** **-** **FORT MYERS - CAPE CORAL & SURROUNDING AREAS\U0001FAE7**\n"
+    text: "At The Safe Cleaners, we prioritize safety, and security while providing a range of exceptional cleaning services tailored to meet diverse needs. We offer **Standard Cleaning Services** for routine upkeep, **Deep Cleaning Services** for those tougher tasks, **Eco-friendly Services**, and **Commercial Cleaning** for businesses and offices.  Get your online quote now!\n\n\U0001FAE7Servicing **LEHIGH ACRES** **-** **FORT MYERS - CAPE CORAL & SURROUNDING AREAS!\U0001FAE7**\n"
     actions:
       - label: Book
         altText: ''
